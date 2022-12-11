@@ -1,0 +1,5 @@
+package com.reactor.movieinfoservice.repository;
+
+public class MovieInfoRepository {
+
+}

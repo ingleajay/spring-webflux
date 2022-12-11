@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="MovieInfoRepositoryTest.saveMovieInfo" project="movie-info-service" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest" time="1.081" displayname="MovieInfoRepositoryTest" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest]">
+    <testcase name="saveMovieInfo" classname="com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest" time="1.081" displayname="saveMovieInfo()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest]/[method:saveMovieInfo()]"/>
+  </testsuite>
+</testrun>

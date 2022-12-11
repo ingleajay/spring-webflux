@@ -1,0 +1,30 @@
+package com.reactor.movieinfoservice.unit;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.reactive.WebFluxTest;
+import org.springframework.test.web.reactive.server.WebTestClient;
+
+import com.reactor.movieinfoservice.controller.FluxMonoController;
+
+@WebFluxTest(controllers = FluxMonoController.class)
+public class FluxAndMonoControllerTest {
+
+	@Autowired
+    WebTestClient webTestClient;
+	
+	
+	@Test
+    void flux() {
+
+        webTestClient
+                .get()
+                .uri("/flux")
+                .exchange()
+                .expectStatus()
+                .is2xxSuccessful()
+                .expectBodyList(Integer.class)
+                .hasSize(3);
+    }
+	
+}

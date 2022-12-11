@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="FluxAndMonoControllerTest.mono" project="movie-info-service" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.896" displayname="FluxAndMonoControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]">
+    <testcase name="mono" classname="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.896" displayname="mono()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]/[method:mono()]"/>
+  </testsuite>
+</testrun>
