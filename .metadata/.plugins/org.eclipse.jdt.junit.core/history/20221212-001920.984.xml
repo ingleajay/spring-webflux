@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="MovieInfoRepositoryTest" project="movie-info-service" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest" time="5.548" displayname="MovieInfoRepositoryTest" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest]">
-    <testcase name="findAll" classname="com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest" time="5.548" displayname="findAll()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.integreation.MovieInfoRepositoryTest]/[method:findAll()]"/>
-  </testsuite>
-</testrun>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="FluxAndMonoControllerTest" project="movie-info-service" tests="3" started="3" failures="0" errors="0" ignored="0">
-  <testsuite name="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.494" displayname="FluxAndMonoControllerTest" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]">
-    <testcase name="flux" classname="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.439" displayname="flux()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]/[method:flux()]"/>
-    <testcase name="flux_approach2" classname="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.036" displayname="flux_approach2()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]/[method:flux_approach2()]"/>
-    <testcase name="flux_approach3" classname="com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest" time="0.015" displayname="flux_approach3()" uniqueid="[engine:junit-jupiter]/[class:com.reactor.movieinfoservice.unit.FluxAndMonoControllerTest]/[method:flux_approach3()]"/>
-  </testsuite>
-</testrun>
